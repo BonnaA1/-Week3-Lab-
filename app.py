@@ -1,2 +1,3 @@
 print("System Online")
-print("Login feature coming soon")
+user = input("Username: ")
+print(f"Welcome {user}")
