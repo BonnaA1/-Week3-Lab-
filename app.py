@@ -1,3 +1,3 @@
-print("System Online")
+print("System Online[RED]")
 user = input("Username: ")
 print(f"Welcome {user}")
